@@ -1,0 +1,887 @@
+nohup: ignoring input
+[Mon Dec 19 18:30:21 2022] PHP 8.1.4 Development Server (http://localhost:4080) started
+[Mon Dec 19 18:31:01 2022] [::1]:37664 Accepted
+[Mon Dec 19 18:31:01 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:31:01 2022] [::1]:37664 [200]: GET /
+[Mon Dec 19 18:31:01 2022] [::1]:37664 Closing
+[Mon Dec 19 18:31:01 2022] [::1]:37678 Accepted
+[Mon Dec 19 18:31:01 2022] [::1]:37678 [200]: GET /imgs/NinjaDevsImg.png
+[Mon Dec 19 18:31:01 2022] [::1]:37678 Closing
+[Mon Dec 19 18:31:02 2022] [::1]:37680 Accepted
+[Mon Dec 19 18:31:02 2022] [::1]:37680 [404]: GET /favicon.ico - No such file or directory
+[Mon Dec 19 18:31:02 2022] [::1]:37680 Closing
+[Mon Dec 19 18:31:06 2022] [::1]:37682 Accepted
+[Mon Dec 19 18:31:06 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:31:06 2022] [::1]:37682 [200]: GET /
+[Mon Dec 19 18:31:06 2022] [::1]:37682 Closing
+[Mon Dec 19 18:31:07 2022] [::1]:34666 Accepted
+[Mon Dec 19 18:31:07 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:31:07 2022] [::1]:34666 [200]: GET /
+[Mon Dec 19 18:31:07 2022] [::1]:34666 Closing
+[Mon Dec 19 18:31:07 2022] [::1]:34678 Accepted
+[Mon Dec 19 18:31:07 2022] [::1]:34678 [200]: GET /imgs/NinjaDevsImg.png
+[Mon Dec 19 18:31:07 2022] [::1]:34678 Closing
+[Mon Dec 19 18:31:07 2022] [::1]:34686 Accepted
+[Mon Dec 19 18:31:07 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:31:07 2022] [::1]:34686 [200]: GET /
+[Mon Dec 19 18:31:07 2022] [::1]:34686 Closing
+[Mon Dec 19 18:31:07 2022] [::1]:34696 Accepted
+[Mon Dec 19 18:31:07 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:31:07 2022] [::1]:34696 [200]: GET /
+[Mon Dec 19 18:31:07 2022] [::1]:34696 Closing
+[Mon Dec 19 18:31:08 2022] [::1]:34704 Accepted
+[Mon Dec 19 18:31:08 2022] [::1]:34704 [200]: GET /imgs/NinjaDevsImg.png
+[Mon Dec 19 18:31:08 2022] [::1]:34704 Closing
+[Mon Dec 19 18:31:08 2022] [::1]:34712 Accepted
+[Mon Dec 19 18:31:08 2022] [::1]:34712 [404]: GET /favicon.ico - No such file or directory
+[Mon Dec 19 18:31:08 2022] [::1]:34712 Closing
+[Mon Dec 19 18:31:08 2022] [::1]:34714 Accepted
+[Mon Dec 19 18:31:08 2022] [::1]:34714 [200]: GET /imgs/NinjaDevsImg.png
+[Mon Dec 19 18:31:08 2022] [::1]:34714 Closing
+[Mon Dec 19 18:31:09 2022] [::1]:34716 Accepted
+[Mon Dec 19 18:31:09 2022] [::1]:34716 [200]: GET /imgs/NinjaDevsImg.png
+[Mon Dec 19 18:31:09 2022] [::1]:34716 Closing
+[Mon Dec 19 18:32:03 2022] [::1]:58372 Accepted
+[Mon Dec 19 18:32:03 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:32:03 2022] [::1]:58372 [200]: GET /
+[Mon Dec 19 18:32:03 2022] [::1]:58372 Closing
+[Mon Dec 19 18:33:47 2022] [::1]:35842 Accepted
+[Mon Dec 19 18:33:47 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:33:47 2022] [::1]:35842 [200]: GET /
+[Mon Dec 19 18:33:47 2022] [::1]:35842 Closing
+[Mon Dec 19 18:33:49 2022] [::1]:35846 Accepted
+[Mon Dec 19 18:33:49 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:33:49 2022] [::1]:35846 [200]: GET /
+[Mon Dec 19 18:33:49 2022] [::1]:35846 Closing
+[Mon Dec 19 18:33:50 2022] [::1]:35852 Accepted
+[Mon Dec 19 18:33:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:33:50 2022] [::1]:35852 [200]: GET /
+[Mon Dec 19 18:33:50 2022] [::1]:35852 Closing
+[Mon Dec 19 18:33:50 2022] [::1]:35856 Accepted
+[Mon Dec 19 18:33:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:33:50 2022] [::1]:35856 [200]: GET /
+[Mon Dec 19 18:33:50 2022] [::1]:35856 Closing
+[Mon Dec 19 18:33:51 2022] [::1]:35858 Accepted
+[Mon Dec 19 18:33:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:33:51 2022] [::1]:35858 [200]: GET /
+[Mon Dec 19 18:33:51 2022] [::1]:35858 Closing
+[Mon Dec 19 18:33:52 2022] [::1]:35872 Accepted
+[Mon Dec 19 18:33:52 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:33:52 2022] [::1]:35872 [200]: GET /
+[Mon Dec 19 18:33:52 2022] [::1]:35872 Closing
+[Mon Dec 19 18:34:03 2022] [::1]:49864 Accepted
+[Mon Dec 19 18:34:03 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:34:03 2022] [::1]:49864 [200]: GET /
+[Mon Dec 19 18:34:03 2022] [::1]:49864 Closing
+[Mon Dec 19 18:34:05 2022] [::1]:49874 Accepted
+[Mon Dec 19 18:34:05 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:34:05 2022] [::1]:49874 [200]: GET /
+[Mon Dec 19 18:34:05 2022] [::1]:49874 Closing
+[Mon Dec 19 18:34:15 2022] [::1]:53032 Accepted
+[Mon Dec 19 18:34:15 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:34:15 2022] [::1]:53032 [200]: GET /
+[Mon Dec 19 18:34:15 2022] [::1]:53032 Closing
+[Mon Dec 19 18:35:20 2022] [::1]:42688 Accepted
+[Mon Dec 19 18:35:20 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:35:20 2022] [::1]:42688 [200]: GET /
+[Mon Dec 19 18:35:20 2022] [::1]:42688 Closing
+[Mon Dec 19 18:35:36 2022] [::1]:59354 Accepted
+[Mon Dec 19 18:35:36 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:35:36 2022] [::1]:59354 [200]: GET /
+[Mon Dec 19 18:35:36 2022] [::1]:59354 Closing
+[Mon Dec 19 18:36:20 2022] [::1]:52170 Accepted
+[Mon Dec 19 18:36:20 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:36:20 2022] [::1]:52170 [200]: GET /
+[Mon Dec 19 18:36:20 2022] [::1]:52170 Closing
+[Mon Dec 19 18:36:54 2022] [::1]:34230 Accepted
+[Mon Dec 19 18:36:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:36:54 2022] [::1]:34230 [200]: GET /
+[Mon Dec 19 18:36:54 2022] [::1]:34230 Closing
+[Mon Dec 19 18:36:55 2022] [::1]:34238 Accepted
+[Mon Dec 19 18:36:55 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:36:55 2022] [::1]:34238 [200]: GET /
+[Mon Dec 19 18:36:55 2022] [::1]:34238 Closing
+[Mon Dec 19 18:36:56 2022] [::1]:34244 Accepted
+[Mon Dec 19 18:36:56 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:36:56 2022] [::1]:34244 [200]: GET /
+[Mon Dec 19 18:36:56 2022] [::1]:34244 Closing
+[Mon Dec 19 18:37:03 2022] [::1]:42478 Accepted
+[Mon Dec 19 18:37:03 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:37:03 2022] [::1]:42478 [200]: GET /
+[Mon Dec 19 18:37:03 2022] [::1]:42478 Closing
+[Mon Dec 19 18:37:03 2022] [::1]:42494 Accepted
+[Mon Dec 19 18:37:03 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:37:03 2022] [::1]:42494 [200]: GET /
+[Mon Dec 19 18:37:03 2022] [::1]:42494 Closing
+[Mon Dec 19 18:37:04 2022] [::1]:42500 Accepted
+[Mon Dec 19 18:37:04 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:37:04 2022] [::1]:42500 [200]: GET /
+[Mon Dec 19 18:37:04 2022] [::1]:42500 Closing
+[Mon Dec 19 18:37:05 2022] [::1]:42502 Accepted
+[Mon Dec 19 18:37:05 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:37:05 2022] [::1]:42502 [200]: GET /
+[Mon Dec 19 18:37:05 2022] [::1]:42502 Closing
+[Mon Dec 19 18:37:34 2022] [::1]:52696 Accepted
+[Mon Dec 19 18:37:34 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:37:34 2022] [::1]:52696 [200]: GET /
+[Mon Dec 19 18:37:34 2022] [::1]:52696 Closing
+[Mon Dec 19 18:37:35 2022] [::1]:52706 Accepted
+[Mon Dec 19 18:37:35 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:37:35 2022] [::1]:52706 [200]: GET /
+[Mon Dec 19 18:37:35 2022] [::1]:52706 Closing
+[Mon Dec 19 18:39:06 2022] [::1]:45396 Accepted
+[Mon Dec 19 18:39:06 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:06 2022] [::1]:45396 [200]: GET /
+[Mon Dec 19 18:39:06 2022] [::1]:45396 Closing
+[Mon Dec 19 18:39:24 2022] [::1]:44442 Accepted
+[Mon Dec 19 18:39:24 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:24 2022] [::1]:44442 [200]: GET /
+[Mon Dec 19 18:39:24 2022] [::1]:44442 Closing
+[Mon Dec 19 18:39:25 2022] [::1]:44448 Accepted
+[Mon Dec 19 18:39:25 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:25 2022] [::1]:44448 [200]: GET /
+[Mon Dec 19 18:39:25 2022] [::1]:44448 Closing
+[Mon Dec 19 18:39:36 2022] [::1]:53744 Accepted
+[Mon Dec 19 18:39:36 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:36 2022] [::1]:53744 [200]: GET /
+[Mon Dec 19 18:39:36 2022] [::1]:53744 Closing
+[Mon Dec 19 18:39:37 2022] [::1]:41630 Accepted
+[Mon Dec 19 18:39:37 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:37 2022] [::1]:41630 [200]: GET /
+[Mon Dec 19 18:39:37 2022] [::1]:41630 Closing
+[Mon Dec 19 18:39:50 2022] [::1]:46532 Accepted
+[Mon Dec 19 18:39:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:50 2022] [::1]:46532 [200]: GET /
+[Mon Dec 19 18:39:50 2022] [::1]:46532 Closing
+[Mon Dec 19 18:39:51 2022] [::1]:46544 Accepted
+[Mon Dec 19 18:39:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:51 2022] [::1]:46544 [200]: GET /
+[Mon Dec 19 18:39:51 2022] [::1]:46544 Closing
+[Mon Dec 19 18:39:51 2022] [::1]:46554 Accepted
+[Mon Dec 19 18:39:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:51 2022] [::1]:46554 [200]: GET /
+[Mon Dec 19 18:39:51 2022] [::1]:46554 Closing
+[Mon Dec 19 18:39:51 2022] [::1]:46558 Accepted
+[Mon Dec 19 18:39:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:39:51 2022] [::1]:46558 [200]: GET /
+[Mon Dec 19 18:39:51 2022] [::1]:46558 Closing
+[Mon Dec 19 18:40:05 2022] [::1]:48656 Accepted
+[Mon Dec 19 18:40:05 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:05 2022] [::1]:48656 [200]: GET /
+[Mon Dec 19 18:40:05 2022] [::1]:48656 Closing
+[Mon Dec 19 18:40:14 2022] [::1]:45944 Accepted
+[Mon Dec 19 18:40:14 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:14 2022] [::1]:45944 [200]: GET /
+[Mon Dec 19 18:40:14 2022] [::1]:45944 Closing
+[Mon Dec 19 18:40:15 2022] [::1]:45950 Accepted
+[Mon Dec 19 18:40:15 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:15 2022] [::1]:45950 [200]: GET /
+[Mon Dec 19 18:40:15 2022] [::1]:45950 Closing
+[Mon Dec 19 18:40:15 2022] [::1]:45966 Accepted
+[Mon Dec 19 18:40:15 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:15 2022] [::1]:45966 [200]: GET /
+[Mon Dec 19 18:40:15 2022] [::1]:45966 Closing
+[Mon Dec 19 18:40:22 2022] [::1]:34628 Accepted
+[Mon Dec 19 18:40:22 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:22 2022] [::1]:34628 [200]: GET /
+[Mon Dec 19 18:40:22 2022] [::1]:34628 Closing
+[Mon Dec 19 18:40:23 2022] [::1]:34642 Accepted
+[Mon Dec 19 18:40:23 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:23 2022] [::1]:34642 [200]: GET /
+[Mon Dec 19 18:40:23 2022] [::1]:34642 Closing
+[Mon Dec 19 18:40:23 2022] [::1]:34656 Accepted
+[Mon Dec 19 18:40:23 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:23 2022] [::1]:34656 [200]: GET /
+[Mon Dec 19 18:40:23 2022] [::1]:34656 Closing
+[Mon Dec 19 18:40:47 2022] [::1]:48418 Accepted
+[Mon Dec 19 18:40:47 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:47 2022] [::1]:48418 [200]: GET /
+[Mon Dec 19 18:40:47 2022] [::1]:48418 Closing
+[Mon Dec 19 18:40:56 2022] [::1]:48434 Accepted
+[Mon Dec 19 18:40:56 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:40:56 2022] [::1]:48434 [200]: GET /
+[Mon Dec 19 18:40:56 2022] [::1]:48434 Closing
+[Mon Dec 19 18:41:28 2022] [::1]:58538 Accepted
+[Mon Dec 19 18:41:28 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:41:28 2022] [::1]:58538 [200]: GET /
+[Mon Dec 19 18:41:28 2022] [::1]:58538 Closing
+[Mon Dec 19 18:41:29 2022] [::1]:58548 Accepted
+[Mon Dec 19 18:41:29 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:41:29 2022] [::1]:58548 [200]: GET /
+[Mon Dec 19 18:41:29 2022] [::1]:58548 Closing
+[Mon Dec 19 18:41:30 2022] [::1]:58550 Accepted
+[Mon Dec 19 18:41:30 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:41:30 2022] [::1]:58550 [200]: GET /
+[Mon Dec 19 18:41:30 2022] [::1]:58550 Closing
+[Mon Dec 19 18:41:40 2022] [::1]:41410 Accepted
+[Mon Dec 19 18:41:40 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:41:40 2022] [::1]:41410 [200]: GET /
+[Mon Dec 19 18:41:40 2022] [::1]:41410 Closing
+[Mon Dec 19 18:41:52 2022] [::1]:38544 Accepted
+[Mon Dec 19 18:41:52 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:41:52 2022] [::1]:38544 [200]: GET /
+[Mon Dec 19 18:41:52 2022] [::1]:38544 Closing
+[Mon Dec 19 18:41:53 2022] [::1]:38548 Accepted
+[Mon Dec 19 18:41:53 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:41:53 2022] [::1]:38548 [200]: GET /
+[Mon Dec 19 18:41:53 2022] [::1]:38548 Closing
+[Mon Dec 19 18:42:06 2022] [::1]:40806 Accepted
+[Mon Dec 19 18:42:06 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:06 2022] [::1]:40806 [200]: GET /
+[Mon Dec 19 18:42:06 2022] [::1]:40806 Closing
+[Mon Dec 19 18:42:07 2022] [::1]:42270 Accepted
+[Mon Dec 19 18:42:07 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:07 2022] [::1]:42270 [200]: GET /
+[Mon Dec 19 18:42:07 2022] [::1]:42270 Closing
+[Mon Dec 19 18:42:14 2022] [::1]:42278 Accepted
+[Mon Dec 19 18:42:14 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:14 2022] [::1]:42278 [200]: GET /
+[Mon Dec 19 18:42:14 2022] [::1]:42278 Closing
+[Mon Dec 19 18:42:14 2022] [::1]:42280 Accepted
+[Mon Dec 19 18:42:14 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:14 2022] [::1]:42280 [200]: GET /
+[Mon Dec 19 18:42:14 2022] [::1]:42280 Closing
+[Mon Dec 19 18:42:21 2022] [::1]:46926 Accepted
+[Mon Dec 19 18:42:21 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:21 2022] [::1]:46926 [200]: GET /
+[Mon Dec 19 18:42:21 2022] [::1]:46926 Closing
+[Mon Dec 19 18:42:23 2022] [::1]:46928 Accepted
+[Mon Dec 19 18:42:23 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:23 2022] [::1]:46928 [200]: GET /
+[Mon Dec 19 18:42:23 2022] [::1]:46928 Closing
+[Mon Dec 19 18:42:23 2022] [::1]:46944 Accepted
+[Mon Dec 19 18:42:23 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:23 2022] [::1]:46944 [200]: GET /
+[Mon Dec 19 18:42:23 2022] [::1]:46944 Closing
+[Mon Dec 19 18:42:24 2022] [::1]:46954 Accepted
+[Mon Dec 19 18:42:24 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:24 2022] [::1]:46954 [200]: GET /
+[Mon Dec 19 18:42:24 2022] [::1]:46954 Closing
+[Mon Dec 19 18:42:35 2022] [::1]:38412 Accepted
+[Mon Dec 19 18:42:35 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:35 2022] [::1]:38412 [200]: GET /
+[Mon Dec 19 18:42:35 2022] [::1]:38412 Closing
+[Mon Dec 19 18:42:36 2022] [::1]:38416 Accepted
+[Mon Dec 19 18:42:36 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:42:36 2022] [::1]:38416 [200]: GET /
+[Mon Dec 19 18:42:36 2022] [::1]:38416 Closing
+[Mon Dec 19 18:43:00 2022] [::1]:43874 Accepted
+[Mon Dec 19 18:43:00 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:43:00 2022] [::1]:43874 [200]: GET /
+[Mon Dec 19 18:43:00 2022] [::1]:43874 Closing
+[Mon Dec 19 18:43:01 2022] [::1]:43890 Accepted
+[Mon Dec 19 18:43:01 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:43:01 2022] [::1]:43890 [200]: GET /
+[Mon Dec 19 18:43:01 2022] [::1]:43890 Closing
+[Mon Dec 19 18:44:06 2022] [::1]:50352 Accepted
+[Mon Dec 19 18:44:06 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:44:06 2022] [::1]:50352 [200]: GET /
+[Mon Dec 19 18:44:06 2022] [::1]:50352 Closing
+[Mon Dec 19 18:44:07 2022] [::1]:48432 Accepted
+[Mon Dec 19 18:44:07 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:44:07 2022] [::1]:48432 [200]: GET /
+[Mon Dec 19 18:44:07 2022] [::1]:48432 Closing
+[Mon Dec 19 18:44:59 2022] [::1]:48622 Accepted
+[Mon Dec 19 18:44:59 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:44:59 2022] [::1]:48622 [200]: GET /
+[Mon Dec 19 18:44:59 2022] [::1]:48622 Closing
+[Mon Dec 19 18:44:59 2022] [::1]:48630 Accepted
+[Mon Dec 19 18:44:59 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:44:59 2022] [::1]:48630 [200]: GET /
+[Mon Dec 19 18:44:59 2022] [::1]:48630 Closing
+[Mon Dec 19 18:45:00 2022] [::1]:48640 Accepted
+[Mon Dec 19 18:45:00 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:00 2022] [::1]:48640 [200]: GET /
+[Mon Dec 19 18:45:00 2022] [::1]:48640 Closing
+[Mon Dec 19 18:45:19 2022] [::1]:55276 Accepted
+[Mon Dec 19 18:45:19 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:19 2022] [::1]:55276 [200]: GET /
+[Mon Dec 19 18:45:19 2022] [::1]:55276 Closing
+[Mon Dec 19 18:45:24 2022] [::1]:55288 Accepted
+[Mon Dec 19 18:45:24 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:24 2022] [::1]:55288 [200]: GET /
+[Mon Dec 19 18:45:24 2022] [::1]:55288 Closing
+[Mon Dec 19 18:45:48 2022] [::1]:56488 Accepted
+[Mon Dec 19 18:45:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:48 2022] [::1]:56488 [200]: GET /
+[Mon Dec 19 18:45:48 2022] [::1]:56488 Closing
+[Mon Dec 19 18:45:52 2022] [::1]:56494 Accepted
+[Mon Dec 19 18:45:52 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:52 2022] [::1]:56494 [200]: GET /
+[Mon Dec 19 18:45:52 2022] [::1]:56494 Closing
+[Mon Dec 19 18:45:53 2022] [::1]:56496 Accepted
+[Mon Dec 19 18:45:53 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:53 2022] [::1]:56496 [200]: GET /
+[Mon Dec 19 18:45:53 2022] [::1]:56496 Closing
+[Mon Dec 19 18:45:53 2022] [::1]:56506 Accepted
+[Mon Dec 19 18:45:53 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:53 2022] [::1]:56506 [200]: GET /
+[Mon Dec 19 18:45:53 2022] [::1]:56506 Closing
+[Mon Dec 19 18:45:54 2022] [::1]:56514 Accepted
+[Mon Dec 19 18:45:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:54 2022] [::1]:56514 [200]: GET /
+[Mon Dec 19 18:45:54 2022] [::1]:56514 Closing
+[Mon Dec 19 18:45:54 2022] [::1]:56530 Accepted
+[Mon Dec 19 18:45:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:54 2022] [::1]:56530 [200]: GET /
+[Mon Dec 19 18:45:54 2022] [::1]:56530 Closing
+[Mon Dec 19 18:45:55 2022] [::1]:56540 Accepted
+[Mon Dec 19 18:45:55 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:55 2022] [::1]:56540 [200]: GET /
+[Mon Dec 19 18:45:55 2022] [::1]:56540 Closing
+[Mon Dec 19 18:45:55 2022] [::1]:56548 Accepted
+[Mon Dec 19 18:45:55 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:55 2022] [::1]:56548 [200]: GET /
+[Mon Dec 19 18:45:55 2022] [::1]:56548 Closing
+[Mon Dec 19 18:45:55 2022] [::1]:56562 Accepted
+[Mon Dec 19 18:45:55 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:55 2022] [::1]:56562 [200]: GET /
+[Mon Dec 19 18:45:55 2022] [::1]:56562 Closing
+[Mon Dec 19 18:45:56 2022] [::1]:56568 Accepted
+[Mon Dec 19 18:45:56 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:56 2022] [::1]:56568 [200]: GET /
+[Mon Dec 19 18:45:56 2022] [::1]:56568 Closing
+[Mon Dec 19 18:45:57 2022] [::1]:43656 Accepted
+[Mon Dec 19 18:45:57 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:45:57 2022] [::1]:43656 [200]: GET /
+[Mon Dec 19 18:45:57 2022] [::1]:43656 Closing
+[Mon Dec 19 18:46:01 2022] [::1]:43662 Accepted
+[Mon Dec 19 18:46:01 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:01 2022] [::1]:43662 [200]: GET /
+[Mon Dec 19 18:46:01 2022] [::1]:43662 Closing
+[Mon Dec 19 18:46:02 2022] [::1]:43664 Accepted
+[Mon Dec 19 18:46:02 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:02 2022] [::1]:43664 [200]: GET /
+[Mon Dec 19 18:46:02 2022] [::1]:43664 Closing
+[Mon Dec 19 18:46:02 2022] [::1]:43678 Accepted
+[Mon Dec 19 18:46:02 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:02 2022] [::1]:43678 [200]: GET /
+[Mon Dec 19 18:46:02 2022] [::1]:43678 Closing
+[Mon Dec 19 18:46:03 2022] [::1]:43688 Accepted
+[Mon Dec 19 18:46:03 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:03 2022] [::1]:43688 [200]: GET /
+[Mon Dec 19 18:46:03 2022] [::1]:43688 Closing
+[Mon Dec 19 18:46:03 2022] [::1]:43690 Accepted
+[Mon Dec 19 18:46:03 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:03 2022] [::1]:43690 [200]: GET /
+[Mon Dec 19 18:46:03 2022] [::1]:43690 Closing
+[Mon Dec 19 18:46:04 2022] [::1]:43704 Accepted
+[Mon Dec 19 18:46:04 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:04 2022] [::1]:43704 [200]: GET /
+[Mon Dec 19 18:46:04 2022] [::1]:43704 Closing
+[Mon Dec 19 18:46:13 2022] [::1]:53746 Accepted
+[Mon Dec 19 18:46:13 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:13 2022] [::1]:53746 [200]: GET /
+[Mon Dec 19 18:46:13 2022] [::1]:53746 Closing
+[Mon Dec 19 18:46:16 2022] [::1]:53752 Accepted
+[Mon Dec 19 18:46:16 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:16 2022] [::1]:53752 [200]: GET /
+[Mon Dec 19 18:46:16 2022] [::1]:53752 Closing
+[Mon Dec 19 18:46:17 2022] [::1]:41450 Accepted
+[Mon Dec 19 18:46:17 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:17 2022] [::1]:41450 [200]: GET /
+[Mon Dec 19 18:46:17 2022] [::1]:41450 Closing
+[Mon Dec 19 18:46:18 2022] [::1]:41454 Accepted
+[Mon Dec 19 18:46:18 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:18 2022] [::1]:41454 [200]: GET /
+[Mon Dec 19 18:46:18 2022] [::1]:41454 Closing
+[Mon Dec 19 18:46:19 2022] [::1]:41470 Accepted
+[Mon Dec 19 18:46:19 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:19 2022] [::1]:41470 [200]: GET /
+[Mon Dec 19 18:46:19 2022] [::1]:41470 Closing
+[Mon Dec 19 18:46:39 2022] [::1]:59946 Accepted
+[Mon Dec 19 18:46:39 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:39 2022] [::1]:59946 [200]: GET /
+[Mon Dec 19 18:46:39 2022] [::1]:59946 Closing
+[Mon Dec 19 18:46:55 2022] [::1]:32768 Accepted
+[Mon Dec 19 18:46:55 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:46:55 2022] [::1]:32768 [200]: GET /
+[Mon Dec 19 18:46:55 2022] [::1]:32768 Closing
+[Mon Dec 19 18:48:27 2022] [::1]:57076 Accepted
+[Mon Dec 19 18:48:27 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:48:27 2022] [::1]:57076 [200]: GET /
+[Mon Dec 19 18:48:27 2022] [::1]:57076 Closing
+[Mon Dec 19 18:48:50 2022] [::1]:38280 Accepted
+[Mon Dec 19 18:48:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:48:50 2022] [::1]:38280 [200]: GET /
+[Mon Dec 19 18:48:50 2022] [::1]:38280 Closing
+[Mon Dec 19 18:48:51 2022] [::1]:38292 Accepted
+[Mon Dec 19 18:48:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:48:51 2022] [::1]:38292 [200]: GET /
+[Mon Dec 19 18:48:51 2022] [::1]:38292 Closing
+[Mon Dec 19 18:48:51 2022] [::1]:38306 Accepted
+[Mon Dec 19 18:48:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:48:51 2022] [::1]:38306 [200]: GET /
+[Mon Dec 19 18:48:51 2022] [::1]:38306 Closing
+[Mon Dec 19 18:48:52 2022] [::1]:38312 Accepted
+[Mon Dec 19 18:48:52 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:48:52 2022] [::1]:38312 [200]: GET /
+[Mon Dec 19 18:48:52 2022] [::1]:38312 Closing
+[Mon Dec 19 18:50:54 2022] [::1]:47900 Accepted
+[Mon Dec 19 18:50:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:50:54 2022] [::1]:47900 [200]: GET /
+[Mon Dec 19 18:50:54 2022] [::1]:47900 Closing
+[Mon Dec 19 18:52:07 2022] [::1]:34156 Accepted
+[Mon Dec 19 18:52:07 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:07 2022] [::1]:34156 [200]: GET /
+[Mon Dec 19 18:52:07 2022] [::1]:34156 Closing
+[Mon Dec 19 18:52:15 2022] [::1]:34166 Accepted
+[Mon Dec 19 18:52:15 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:15 2022] [::1]:34166 [200]: GET /
+[Mon Dec 19 18:52:15 2022] [::1]:34166 Closing
+[Mon Dec 19 18:52:15 2022] [::1]:34180 Accepted
+[Mon Dec 19 18:52:15 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:15 2022] [::1]:34180 [200]: GET /
+[Mon Dec 19 18:52:15 2022] [::1]:34180 Closing
+[Mon Dec 19 18:52:15 2022] [::1]:34194 Accepted
+[Mon Dec 19 18:52:15 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:15 2022] [::1]:34194 [200]: GET /
+[Mon Dec 19 18:52:15 2022] [::1]:34194 Closing
+[Mon Dec 19 18:52:45 2022] [::1]:58142 Accepted
+[Mon Dec 19 18:52:45 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:45 2022] [::1]:58142 [200]: GET /
+[Mon Dec 19 18:52:45 2022] [::1]:58142 Closing
+[Mon Dec 19 18:52:46 2022] [::1]:58150 Accepted
+[Mon Dec 19 18:52:46 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:46 2022] [::1]:58150 [200]: GET /
+[Mon Dec 19 18:52:46 2022] [::1]:58150 Closing
+[Mon Dec 19 18:52:47 2022] [::1]:50492 Accepted
+[Mon Dec 19 18:52:47 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:47 2022] [::1]:50492 [200]: GET /
+[Mon Dec 19 18:52:47 2022] [::1]:50492 Closing
+[Mon Dec 19 18:52:47 2022] [::1]:50502 Accepted
+[Mon Dec 19 18:52:47 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:47 2022] [::1]:50502 [200]: GET /
+[Mon Dec 19 18:52:47 2022] [::1]:50502 Closing
+[Mon Dec 19 18:52:48 2022] [::1]:50514 Accepted
+[Mon Dec 19 18:52:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:48 2022] [::1]:50514 [200]: GET /
+[Mon Dec 19 18:52:48 2022] [::1]:50514 Closing
+[Mon Dec 19 18:52:48 2022] [::1]:50518 Accepted
+[Mon Dec 19 18:52:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:48 2022] [::1]:50518 [200]: GET /
+[Mon Dec 19 18:52:48 2022] [::1]:50518 Closing
+[Mon Dec 19 18:52:48 2022] [::1]:50522 Accepted
+[Mon Dec 19 18:52:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:52:48 2022] [::1]:50522 [200]: GET /
+[Mon Dec 19 18:52:48 2022] [::1]:50522 Closing
+[Mon Dec 19 18:53:12 2022] [::1]:47404 Accepted
+[Mon Dec 19 18:53:12 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:12 2022] [::1]:47404 [200]: GET /
+[Mon Dec 19 18:53:12 2022] [::1]:47404 Closing
+[Mon Dec 19 18:53:13 2022] [::1]:47414 Accepted
+[Mon Dec 19 18:53:13 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:13 2022] [::1]:47414 [200]: GET /
+[Mon Dec 19 18:53:13 2022] [::1]:47414 Closing
+[Mon Dec 19 18:53:14 2022] [::1]:47418 Accepted
+[Mon Dec 19 18:53:14 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:14 2022] [::1]:47418 [200]: GET /
+[Mon Dec 19 18:53:14 2022] [::1]:47418 Closing
+[Mon Dec 19 18:53:20 2022] [::1]:60308 Accepted
+[Mon Dec 19 18:53:20 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:20 2022] [::1]:60308 [200]: GET /
+[Mon Dec 19 18:53:20 2022] [::1]:60308 Closing
+[Mon Dec 19 18:53:37 2022] [::1]:33136 Accepted
+[Mon Dec 19 18:53:37 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:37 2022] [::1]:33136 [200]: GET /
+[Mon Dec 19 18:53:37 2022] [::1]:33136 Closing
+[Mon Dec 19 18:53:37 2022] [::1]:33148 Accepted
+[Mon Dec 19 18:53:37 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:37 2022] [::1]:33148 [200]: GET /
+[Mon Dec 19 18:53:37 2022] [::1]:33148 Closing
+[Mon Dec 19 18:53:38 2022] [::1]:33160 Accepted
+[Mon Dec 19 18:53:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:38 2022] [::1]:33160 [200]: GET /
+[Mon Dec 19 18:53:38 2022] [::1]:33160 Closing
+[Mon Dec 19 18:53:38 2022] [::1]:33172 Accepted
+[Mon Dec 19 18:53:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:38 2022] [::1]:33172 [200]: GET /
+[Mon Dec 19 18:53:38 2022] [::1]:33172 Closing
+[Mon Dec 19 18:53:39 2022] [::1]:33174 Accepted
+[Mon Dec 19 18:53:39 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:39 2022] [::1]:33174 [200]: GET /
+[Mon Dec 19 18:53:39 2022] [::1]:33174 Closing
+[Mon Dec 19 18:53:44 2022] [::1]:33180 Accepted
+[Mon Dec 19 18:53:44 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:44 2022] [::1]:33180 [200]: GET /
+[Mon Dec 19 18:53:44 2022] [::1]:33180 Closing
+[Mon Dec 19 18:53:45 2022] [::1]:33190 Accepted
+[Mon Dec 19 18:53:45 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:45 2022] [::1]:33190 [200]: GET /
+[Mon Dec 19 18:53:45 2022] [::1]:33190 Closing
+[Mon Dec 19 18:53:46 2022] [::1]:33206 Accepted
+[Mon Dec 19 18:53:46 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:46 2022] [::1]:33206 [200]: GET /
+[Mon Dec 19 18:53:46 2022] [::1]:33206 Closing
+[Mon Dec 19 18:53:46 2022] [::1]:33218 Accepted
+[Mon Dec 19 18:53:46 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:46 2022] [::1]:33218 [200]: GET /
+[Mon Dec 19 18:53:46 2022] [::1]:33218 Closing
+[Mon Dec 19 18:53:46 2022] [::1]:33234 Accepted
+[Mon Dec 19 18:53:46 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:46 2022] [::1]:33234 [200]: GET /
+[Mon Dec 19 18:53:46 2022] [::1]:33234 Closing
+[Mon Dec 19 18:53:47 2022] [::1]:37882 Accepted
+[Mon Dec 19 18:53:47 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:47 2022] [::1]:37882 [200]: GET /
+[Mon Dec 19 18:53:47 2022] [::1]:37882 Closing
+[Mon Dec 19 18:53:47 2022] [::1]:37892 Accepted
+[Mon Dec 19 18:53:47 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:47 2022] [::1]:37892 [200]: GET /
+[Mon Dec 19 18:53:47 2022] [::1]:37892 Closing
+[Mon Dec 19 18:53:48 2022] [::1]:37902 Accepted
+[Mon Dec 19 18:53:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:48 2022] [::1]:37902 [200]: GET /
+[Mon Dec 19 18:53:48 2022] [::1]:37902 Closing
+[Mon Dec 19 18:53:48 2022] [::1]:37904 Accepted
+[Mon Dec 19 18:53:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:48 2022] [::1]:37904 [200]: GET /
+[Mon Dec 19 18:53:48 2022] [::1]:37904 Closing
+[Mon Dec 19 18:53:48 2022] [::1]:37910 Accepted
+[Mon Dec 19 18:53:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:48 2022] [::1]:37910 [200]: GET /
+[Mon Dec 19 18:53:48 2022] [::1]:37910 Closing
+[Mon Dec 19 18:53:50 2022] [::1]:37912 Accepted
+[Mon Dec 19 18:53:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:50 2022] [::1]:37912 [200]: GET /
+[Mon Dec 19 18:53:50 2022] [::1]:37912 Closing
+[Mon Dec 19 18:53:54 2022] [::1]:37918 Accepted
+[Mon Dec 19 18:53:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:53:54 2022] [::1]:37918 [200]: GET /
+[Mon Dec 19 18:53:54 2022] [::1]:37918 Closing
+[Mon Dec 19 18:54:10 2022] [::1]:54226 Accepted
+[Mon Dec 19 18:54:10 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:54:10 2022] [::1]:54226 [200]: GET /
+[Mon Dec 19 18:54:10 2022] [::1]:54226 Closing
+[Mon Dec 19 18:54:11 2022] [::1]:54240 Accepted
+[Mon Dec 19 18:54:11 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:54:11 2022] [::1]:54240 [200]: GET /
+[Mon Dec 19 18:54:11 2022] [::1]:54240 Closing
+[Mon Dec 19 18:54:11 2022] [::1]:54246 Accepted
+[Mon Dec 19 18:54:11 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:54:11 2022] [::1]:54246 [200]: GET /
+[Mon Dec 19 18:54:11 2022] [::1]:54246 Closing
+[Mon Dec 19 18:54:11 2022] [::1]:54260 Accepted
+[Mon Dec 19 18:54:11 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:54:11 2022] [::1]:54260 [200]: GET /
+[Mon Dec 19 18:54:11 2022] [::1]:54260 Closing
+[Mon Dec 19 18:55:17 2022] [::1]:47860 Accepted
+[Mon Dec 19 18:55:17 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:17 2022] [::1]:47860 [200]: GET /
+[Mon Dec 19 18:55:17 2022] [::1]:47860 Closing
+[Mon Dec 19 18:55:22 2022] [::1]:47862 Accepted
+[Mon Dec 19 18:55:22 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:22 2022] [::1]:47862 [200]: GET /
+[Mon Dec 19 18:55:22 2022] [::1]:47862 Closing
+[Mon Dec 19 18:55:23 2022] [::1]:47878 Accepted
+[Mon Dec 19 18:55:23 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:23 2022] [::1]:47878 [200]: GET /
+[Mon Dec 19 18:55:23 2022] [::1]:47878 Closing
+[Mon Dec 19 18:55:24 2022] [::1]:47892 Accepted
+[Mon Dec 19 18:55:24 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:24 2022] [::1]:47892 [200]: GET /
+[Mon Dec 19 18:55:24 2022] [::1]:47892 Closing
+[Mon Dec 19 18:55:38 2022] [::1]:44814 Accepted
+[Mon Dec 19 18:55:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:38 2022] [::1]:44814 [200]: GET /
+[Mon Dec 19 18:55:38 2022] [::1]:44814 Closing
+[Mon Dec 19 18:55:38 2022] [::1]:44820 Accepted
+[Mon Dec 19 18:55:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:38 2022] [::1]:44820 [200]: GET /
+[Mon Dec 19 18:55:38 2022] [::1]:44820 Closing
+[Mon Dec 19 18:55:39 2022] [::1]:44830 Accepted
+[Mon Dec 19 18:55:39 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:39 2022] [::1]:44830 [200]: GET /
+[Mon Dec 19 18:55:39 2022] [::1]:44830 Closing
+[Mon Dec 19 18:55:59 2022] [::1]:37396 Accepted
+[Mon Dec 19 18:55:59 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:55:59 2022] [::1]:37396 [200]: GET /
+[Mon Dec 19 18:55:59 2022] [::1]:37396 Closing
+[Mon Dec 19 18:56:00 2022] [::1]:37408 Accepted
+[Mon Dec 19 18:56:00 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:56:00 2022] [::1]:37408 [200]: GET /
+[Mon Dec 19 18:56:00 2022] [::1]:37408 Closing
+[Mon Dec 19 18:56:01 2022] [::1]:37422 Accepted
+[Mon Dec 19 18:56:01 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:56:01 2022] [::1]:37422 [200]: GET /
+[Mon Dec 19 18:56:01 2022] [::1]:37422 Closing
+[Mon Dec 19 18:56:19 2022] [::1]:50966 Accepted
+[Mon Dec 19 18:56:19 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:56:19 2022] [::1]:50966 [200]: GET /
+[Mon Dec 19 18:56:19 2022] [::1]:50966 Closing
+[Mon Dec 19 18:56:19 2022] [::1]:50976 Accepted
+[Mon Dec 19 18:56:19 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:56:19 2022] [::1]:50976 [200]: GET /
+[Mon Dec 19 18:56:19 2022] [::1]:50976 Closing
+[Mon Dec 19 18:56:20 2022] [::1]:50980 Accepted
+[Mon Dec 19 18:56:20 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:56:20 2022] [::1]:50980 [200]: GET /
+[Mon Dec 19 18:56:20 2022] [::1]:50980 Closing
+[Mon Dec 19 18:56:21 2022] [::1]:50996 Accepted
+[Mon Dec 19 18:56:21 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:56:21 2022] [::1]:50996 [200]: GET /
+[Mon Dec 19 18:56:21 2022] [::1]:50996 Closing
+[Mon Dec 19 18:58:37 2022] [::1]:37606 Accepted
+[Mon Dec 19 18:58:37 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:58:37 2022] [::1]:37606 [200]: GET /
+[Mon Dec 19 18:58:37 2022] [::1]:37606 Closing
+[Mon Dec 19 18:59:34 2022] [::1]:58508 Accepted
+[Mon Dec 19 18:59:34 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:59:34 2022] [::1]:58508 [200]: GET /
+[Mon Dec 19 18:59:34 2022] [::1]:58508 Closing
+[Mon Dec 19 18:59:36 2022] [::1]:58510 Accepted
+[Mon Dec 19 18:59:36 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:59:36 2022] [::1]:58510 [200]: GET /
+[Mon Dec 19 18:59:36 2022] [::1]:58510 Closing
+[Mon Dec 19 18:59:37 2022] [::1]:53046 Accepted
+[Mon Dec 19 18:59:37 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 18:59:37 2022] [::1]:53046 [200]: GET /
+[Mon Dec 19 18:59:37 2022] [::1]:53046 Closing
+[Mon Dec 19 19:00:16 2022] [::1]:48234 Accepted
+[Mon Dec 19 19:00:16 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:00:16 2022] [::1]:48234 [200]: GET /
+[Mon Dec 19 19:00:16 2022] [::1]:48234 Closing
+[Mon Dec 19 19:00:33 2022] [::1]:38842 Accepted
+[Mon Dec 19 19:00:33 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:00:33 2022] [::1]:38842 [200]: GET /
+[Mon Dec 19 19:00:33 2022] [::1]:38842 Closing
+[Mon Dec 19 19:00:52 2022] [::1]:32816 Accepted
+[Mon Dec 19 19:00:52 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:00:53 2022] [::1]:32816 [200]: GET /
+[Mon Dec 19 19:00:53 2022] [::1]:32816 Closing
+[Mon Dec 19 19:01:16 2022] [::1]:51588 Accepted
+[Mon Dec 19 19:01:16 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:16 2022] [::1]:51588 [200]: GET /
+[Mon Dec 19 19:01:16 2022] [::1]:51588 Closing
+[Mon Dec 19 19:01:37 2022] [::1]:41500 Accepted
+[Mon Dec 19 19:01:37 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:37 2022] [::1]:41500 [200]: GET /
+[Mon Dec 19 19:01:37 2022] [::1]:41500 Closing
+[Mon Dec 19 19:01:38 2022] [::1]:41516 Accepted
+[Mon Dec 19 19:01:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:38 2022] [::1]:41516 [200]: GET /
+[Mon Dec 19 19:01:38 2022] [::1]:41516 Closing
+[Mon Dec 19 19:01:38 2022] [::1]:41530 Accepted
+[Mon Dec 19 19:01:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:38 2022] [::1]:41530 [200]: GET /
+[Mon Dec 19 19:01:38 2022] [::1]:41530 Closing
+[Mon Dec 19 19:01:57 2022] [::1]:57284 Accepted
+[Mon Dec 19 19:01:57 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:57 2022] [::1]:57284 [200]: GET /
+[Mon Dec 19 19:01:57 2022] [::1]:57284 Closing
+[Mon Dec 19 19:01:58 2022] [::1]:57298 Accepted
+[Mon Dec 19 19:01:58 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:58 2022] [::1]:57298 [200]: GET /
+[Mon Dec 19 19:01:58 2022] [::1]:57298 Closing
+[Mon Dec 19 19:01:58 2022] [::1]:57300 Accepted
+[Mon Dec 19 19:01:58 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:58 2022] [::1]:57300 [200]: GET /
+[Mon Dec 19 19:01:58 2022] [::1]:57300 Closing
+[Mon Dec 19 19:01:58 2022] [::1]:57314 Accepted
+[Mon Dec 19 19:01:58 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:01:58 2022] [::1]:57314 [200]: GET /
+[Mon Dec 19 19:01:58 2022] [::1]:57314 Closing
+[Mon Dec 19 19:02:51 2022] [::1]:50330 Accepted
+[Mon Dec 19 19:02:51 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:02:51 2022] [::1]:50330 [200]: GET /
+[Mon Dec 19 19:02:51 2022] [::1]:50330 Closing
+[Mon Dec 19 19:03:21 2022] [::1]:35964 Accepted
+[Mon Dec 19 19:03:21 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:21 2022] [::1]:35964 [200]: GET /
+[Mon Dec 19 19:03:21 2022] [::1]:35964 Closing
+[Mon Dec 19 19:03:21 2022] [::1]:35976 Accepted
+[Mon Dec 19 19:03:21 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:21 2022] [::1]:35976 [200]: GET /
+[Mon Dec 19 19:03:21 2022] [::1]:35976 Closing
+[Mon Dec 19 19:03:23 2022] [::1]:35978 Accepted
+[Mon Dec 19 19:03:23 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:23 2022] [::1]:35978 [200]: GET /
+[Mon Dec 19 19:03:23 2022] [::1]:35978 Closing
+[Mon Dec 19 19:03:28 2022] [::1]:36410 Accepted
+[Mon Dec 19 19:03:28 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:28 2022] [::1]:36410 [200]: GET /
+[Mon Dec 19 19:03:28 2022] [::1]:36410 Closing
+[Mon Dec 19 19:03:44 2022] [::1]:43634 Accepted
+[Mon Dec 19 19:03:44 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:44 2022] [::1]:43634 [200]: GET /
+[Mon Dec 19 19:03:44 2022] [::1]:43634 Closing
+[Mon Dec 19 19:03:45 2022] [::1]:43644 Accepted
+[Mon Dec 19 19:03:45 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:45 2022] [::1]:43644 [200]: GET /
+[Mon Dec 19 19:03:45 2022] [::1]:43644 Closing
+[Mon Dec 19 19:03:48 2022] [::1]:56728 Accepted
+[Mon Dec 19 19:03:48 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:48 2022] [::1]:56728 [200]: GET /
+[Mon Dec 19 19:03:48 2022] [::1]:56728 Closing
+[Mon Dec 19 19:03:54 2022] [::1]:56740 Accepted
+[Mon Dec 19 19:03:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:54 2022] [::1]:56740 [200]: GET /
+[Mon Dec 19 19:03:54 2022] [::1]:56740 Closing
+[Mon Dec 19 19:03:54 2022] [::1]:56746 Accepted
+[Mon Dec 19 19:03:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:54 2022] [::1]:56746 [200]: GET /
+[Mon Dec 19 19:03:54 2022] [::1]:56746 Closing
+[Mon Dec 19 19:03:54 2022] [::1]:56748 Accepted
+[Mon Dec 19 19:03:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:54 2022] [::1]:56748 [200]: GET /
+[Mon Dec 19 19:03:54 2022] [::1]:56748 Closing
+[Mon Dec 19 19:03:57 2022] [::1]:57168 Accepted
+[Mon Dec 19 19:03:57 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:57 2022] [::1]:57168 [200]: GET /
+[Mon Dec 19 19:03:57 2022] [::1]:57168 Closing
+[Mon Dec 19 19:03:59 2022] [::1]:57182 Accepted
+[Mon Dec 19 19:03:59 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:59 2022] [::1]:57182 [200]: GET /
+[Mon Dec 19 19:03:59 2022] [::1]:57182 Closing
+[Mon Dec 19 19:03:59 2022] [::1]:57190 Accepted
+[Mon Dec 19 19:03:59 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:03:59 2022] [::1]:57190 [200]: GET /
+[Mon Dec 19 19:03:59 2022] [::1]:57190 Closing
+[Mon Dec 19 19:04:00 2022] [::1]:57204 Accepted
+[Mon Dec 19 19:04:00 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:00 2022] [::1]:57204 [200]: GET /
+[Mon Dec 19 19:04:00 2022] [::1]:57204 Closing
+[Mon Dec 19 19:04:01 2022] [::1]:57218 Accepted
+[Mon Dec 19 19:04:01 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:01 2022] [::1]:57218 [200]: GET /
+[Mon Dec 19 19:04:01 2022] [::1]:57218 Closing
+[Mon Dec 19 19:04:13 2022] [::1]:58420 Accepted
+[Mon Dec 19 19:04:13 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:13 2022] [::1]:58420 [200]: GET /
+[Mon Dec 19 19:04:13 2022] [::1]:58420 Closing
+[Mon Dec 19 19:04:21 2022] [::1]:51990 Accepted
+[Mon Dec 19 19:04:21 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:21 2022] [::1]:51990 [200]: GET /
+[Mon Dec 19 19:04:21 2022] [::1]:51990 Closing
+[Mon Dec 19 19:04:30 2022] [::1]:51550 Accepted
+[Mon Dec 19 19:04:30 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:30 2022] [::1]:51550 [200]: GET /
+[Mon Dec 19 19:04:30 2022] [::1]:51550 Closing
+[Mon Dec 19 19:04:31 2022] [::1]:51552 Accepted
+[Mon Dec 19 19:04:31 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:31 2022] [::1]:51552 [200]: GET /
+[Mon Dec 19 19:04:31 2022] [::1]:51552 Closing
+[Mon Dec 19 19:04:38 2022] [::1]:44758 Accepted
+[Mon Dec 19 19:04:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:38 2022] [::1]:44758 [200]: GET /
+[Mon Dec 19 19:04:38 2022] [::1]:44758 Closing
+[Mon Dec 19 19:04:38 2022] [::1]:44768 Accepted
+[Mon Dec 19 19:04:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:38 2022] [::1]:44768 [200]: GET /
+[Mon Dec 19 19:04:38 2022] [::1]:44768 Closing
+[Mon Dec 19 19:04:50 2022] [::1]:53894 Accepted
+[Mon Dec 19 19:04:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:50 2022] [::1]:53894 [200]: GET /
+[Mon Dec 19 19:04:50 2022] [::1]:53894 Closing
+[Mon Dec 19 19:04:50 2022] [::1]:53904 Accepted
+[Mon Dec 19 19:04:50 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:50 2022] [::1]:53904 [200]: GET /
+[Mon Dec 19 19:04:50 2022] [::1]:53904 Closing
+[Mon Dec 19 19:04:57 2022] [::1]:41968 Accepted
+[Mon Dec 19 19:04:57 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:57 2022] [::1]:41968 [200]: GET /
+[Mon Dec 19 19:04:57 2022] [::1]:41968 Closing
+[Mon Dec 19 19:04:57 2022] [::1]:41976 Accepted
+[Mon Dec 19 19:04:57 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:04:57 2022] [::1]:41976 [200]: GET /
+[Mon Dec 19 19:04:57 2022] [::1]:41976 Closing
+[Mon Dec 19 19:05:08 2022] [::1]:49512 Accepted
+[Mon Dec 19 19:05:08 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:05:08 2022] [::1]:49512 [200]: GET /
+[Mon Dec 19 19:05:08 2022] [::1]:49512 Closing
+[Mon Dec 19 19:05:31 2022] [::1]:41948 Accepted
+[Mon Dec 19 19:05:31 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:05:31 2022] [::1]:41948 [200]: GET /
+[Mon Dec 19 19:05:31 2022] [::1]:41948 Closing
+[Mon Dec 19 19:05:38 2022] [::1]:46212 Accepted
+[Mon Dec 19 19:05:38 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:05:38 2022] [::1]:46212 [200]: GET /
+[Mon Dec 19 19:05:38 2022] [::1]:46212 Closing
+[Mon Dec 19 19:05:39 2022] [::1]:46228 Accepted
+[Mon Dec 19 19:05:39 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:05:39 2022] [::1]:46228 [200]: GET /
+[Mon Dec 19 19:05:39 2022] [::1]:46228 Closing
+[Mon Dec 19 19:05:43 2022] [::1]:46240 Accepted
+[Mon Dec 19 19:05:43 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:05:43 2022] [::1]:46240 [200]: GET /
+[Mon Dec 19 19:05:43 2022] [::1]:46240 Closing
+[Mon Dec 19 19:05:44 2022] [::1]:46256 Accepted
+[Mon Dec 19 19:05:44 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:05:44 2022] [::1]:46256 [200]: GET /
+[Mon Dec 19 19:05:44 2022] [::1]:46256 Closing
+[Mon Dec 19 19:06:12 2022] [::1]:58256 Accepted
+[Mon Dec 19 19:06:12 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:06:12 2022] [::1]:58256 [200]: GET /
+[Mon Dec 19 19:06:12 2022] [::1]:58256 Closing
+[Mon Dec 19 19:06:13 2022] [::1]:58266 Accepted
+[Mon Dec 19 19:06:13 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:06:13 2022] [::1]:58266 [200]: GET /
+[Mon Dec 19 19:06:13 2022] [::1]:58266 Closing
+[Mon Dec 19 19:07:57 2022] [::1]:34370 Accepted
+[Mon Dec 19 19:07:57 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:07:57 2022] [::1]:34370 [200]: GET /
+[Mon Dec 19 19:07:57 2022] [::1]:34370 Closing
+[Mon Dec 19 19:08:04 2022] [::1]:34386 Accepted
+[Mon Dec 19 19:08:04 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:04 2022] [::1]:34386 [200]: GET /
+[Mon Dec 19 19:08:04 2022] [::1]:34386 Closing
+[Mon Dec 19 19:08:08 2022] [::1]:45460 Accepted
+[Mon Dec 19 19:08:08 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:08 2022] [::1]:45460 [200]: GET /
+[Mon Dec 19 19:08:08 2022] [::1]:45460 Closing
+[Mon Dec 19 19:08:09 2022] [::1]:45468 Accepted
+[Mon Dec 19 19:08:09 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:09 2022] [::1]:45468 [200]: GET /
+[Mon Dec 19 19:08:09 2022] [::1]:45468 Closing
+[Mon Dec 19 19:08:10 2022] [::1]:45482 Accepted
+[Mon Dec 19 19:08:10 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:10 2022] [::1]:45482 [200]: GET /
+[Mon Dec 19 19:08:10 2022] [::1]:45482 Closing
+[Mon Dec 19 19:08:16 2022] [::1]:45490 Accepted
+[Mon Dec 19 19:08:16 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:16 2022] [::1]:45490 [200]: GET /
+[Mon Dec 19 19:08:16 2022] [::1]:45490 Closing
+[Mon Dec 19 19:08:17 2022] [::1]:55626 Accepted
+[Mon Dec 19 19:08:17 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:17 2022] [::1]:55626 [200]: GET /
+[Mon Dec 19 19:08:17 2022] [::1]:55626 Closing
+[Mon Dec 19 19:08:17 2022] [::1]:55628 Accepted
+[Mon Dec 19 19:08:17 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:08:17 2022] [::1]:55628 [200]: GET /
+[Mon Dec 19 19:08:17 2022] [::1]:55628 Closing
+[Mon Dec 19 19:10:54 2022] [::1]:34056 Accepted
+[Mon Dec 19 19:10:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:10:54 2022] [::1]:34056 [200]: GET /
+[Mon Dec 19 19:10:54 2022] [::1]:34056 Closing
+[Mon Dec 19 19:10:54 2022] [::1]:34070 Accepted
+[Mon Dec 19 19:10:54 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:10:54 2022] [::1]:34070 [200]: GET /
+[Mon Dec 19 19:10:54 2022] [::1]:34070 Closing
+[Mon Dec 19 19:11:20 2022] [::1]:34650 Accepted
+[Mon Dec 19 19:11:20 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:11:20 2022] [::1]:34650 [200]: GET /
+[Mon Dec 19 19:11:20 2022] [::1]:34650 Closing
+[Mon Dec 19 19:11:25 2022] [::1]:34666 Accepted
+[Mon Dec 19 19:11:25 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:11:25 2022] [::1]:34666 [200]: GET /
+[Mon Dec 19 19:11:25 2022] [::1]:34666 Closing
+[Mon Dec 19 19:11:26 2022] [::1]:34674 Accepted
+[Mon Dec 19 19:11:26 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:11:26 2022] [::1]:34674 [200]: GET /
+[Mon Dec 19 19:11:26 2022] [::1]:34674 Closing
+[Mon Dec 19 19:11:30 2022] [::1]:41934 Accepted
+[Mon Dec 19 19:11:30 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:11:30 2022] [::1]:41934 [200]: GET /
+[Mon Dec 19 19:11:30 2022] [::1]:41934 Closing
+[Mon Dec 19 19:11:35 2022] [::1]:41950 Accepted
+[Mon Dec 19 19:11:35 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:11:35 2022] [::1]:41950 [200]: GET /
+[Mon Dec 19 19:11:35 2022] [::1]:41950 Closing
+[Mon Dec 19 19:11:35 2022] [::1]:41964 Accepted
+[Mon Dec 19 19:11:35 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:11:35 2022] [::1]:41964 [200]: GET /
+[Mon Dec 19 19:11:35 2022] [::1]:41964 Closing
+[Mon Dec 19 19:27:44 2022] [::1]:40504 Accepted
+[Mon Dec 19 19:27:44 2022] Xdebug: [Step Debug] Could not connect to debugging client. Tried: localhost:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[Mon Dec 19 19:27:44 2022] [::1]:40504 [200]: GET /
+[Mon Dec 19 19:27:44 2022] [::1]:40504 Closing
